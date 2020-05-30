@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+
+    <!--- basic page needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>SetiaTech Indonesia</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- mobile specific metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/vendor.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- script
+    ================================================== -->
+    <script src="js/modernizr.js"></script>
+
+    <!-- favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="images/sti.png" type="image/x-icon">
+    <link rel="icon" href="images/sti.png" type="image/x-icon">
+
+</head>
+
+
+<body id="top">
+    
+    <!-- preloader
+    ================================================== -->
+    <div id="preloader">
+        <div id="loader" class="dots-jump">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    <!-- header
+    ================================================== -->
+    <header class="s-header">
+
+        <div class="header-logo">
+            <a class="site-logo" href="index.html">
+                <img src="images/sti.png" alt="Homepage" style="width: 155px; height: 150px;">
+            </a>
+        </div> <!-- end header-logo -->
+
+        <nav class="header-nav">
+
+            <a href="#0" class="header-nav__close" title="close"><span>Close</span></a>
+
+            <h3>Menu</h3>
+
+            <div class="header-nav__content">
+                
+                <ul class="header-nav__list">
+                    <li><a class="smoothscroll"  href="#beranda" title="beranda">Beranda</a></li>
+                    <li><a class="smoothscroll"  href="#tentang" title="tentang">Tentang STI</a></li>
+                    <li><a class="smoothscroll"  href="#pelayanan" title="pelayanan">Tujuannya Apa?</a></li>
+                    <li><a class="smoothscroll"  href="#kontak" title="kontak">Kontak</a></li>
+                </ul>
+    
+                <!-- <p>Perspiciatis hic praesentium nesciunt. Et neque a dolorum <a href='#0'>voluptatem</a> porro iusto sequi veritatis libero enim. Iusto id suscipit veritatis neque reprehenderit.</p> -->
+    
+                <ul class="header-nav__social">
+                    <li>
+                        <a href="mailto:setiatechindonesia@gmail.com"><i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/stindonesia_/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    </li>
+                </ul>
+
+            </div> <!-- end header-nav__content -->
+
+        </nav> <!-- end header-nav -->
+
+        <a class="header-menu-toggle" href="#0">
+            <span class="header-menu-icon"></span>
+        </a>
+
+    </header> <!-- end s-header -->
+
+
+    <!-- beranda
+    ================================================== -->
+    <section id="beranda" class="s-home page-hero target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg" data-natural-width=3000 data-natural-height=2000 data-position-y=center>
+
+        <div class="grid-overlay">
+            <div></div>
+        </div>
+
+        <div class="home-content">
+
+            <div class="row home-content__main">
+
+                <h1>
+                SetiaTech Indonesia
+                </h1>
+
+                <h3>
+                Membantu Keresahan Anda dalam Bidang Teknologi Informasi
+                </h3>
+
+                <!-- <div class="home-content__video">
+                    <a class="video-link" href="https://player.vimeo.com/video/117310401?color=01aef0&title=0&byline=0&portrait=0" data-lity>
+                        <span class="video-icon"></span>
+                        <span class="video-text">Watch Video</span>
+                    </a>
+                </div> -->
+
+                <div class="home-content__button">
+                    <a href="#tentang" class="smoothscroll btn btn--primary btn--large">
+                        Tentang STI
+                    </a>
+                    <a href="#kontak" class="smoothscroll btn btn--large">
+                        Mulai Bertanya
+                    </a>
+                </div>
+
+            </div> <!-- end home-content__main -->
+
+            <div class="home-content__scroll">
+                <a href="#tentang" class="scroll-link smoothscroll">
+                    Scroll
+                </a>
+            </div>
+
+        </div> <!-- end home-content -->
+
+        <ul class="home-social">
+            <li>
+                <a href="mailto:setiatechindonesia@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i><span>Email</span></a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/stindonesia_/" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>
+            </li>
+        </ul> <!-- end home-social -->
+
+    </section> <!-- end s-home -->
+
+
+    <!-- tentang
+    ================================================== -->
+    <section id="tentang" class="s-about target-section">
+
+        <div class="row section-header bit-narrow" data-aos="fade-up">
+            <div class="col-full">
+                <h3 class="subhead">Apa itu STI</h3>
+                <h1 class="display-1">
+                STI adalah singkatan dari SetiaTech Indonesia. Sebenarnya nama pertamanya adalah ku.iseng. Seiring berjalannya waktu & pikiran, maka berubahlah menjadi STI (SetiaTech Indonesia). STI dibuat oleh seseorang yang bernama Iwan Setiawan.
+                </h1>
+            </div>
+        </div> <!-- end section-header -->
+
+        <div class="row bit-narrow" data-aos="fade-up">
+            <div class="col-full">
+                <p class="lead">
+                STI ini adalah sebuah blog pribadi dari seorang Iwan Setiawan. Dalam kata lain, STI ini dibuat untuk sebuah catatan perjalanan kehidupan dari si pembuatnya yang iseng aja. Disini Anda bisa bertanya mengenai keresahan anda khususnya di bidang teknologi & informasi, jangan sungkan. Jika anda bertanya, maka nanti akan menjadi ilmu yang bermanfaat khususnya bagi saya dan anda juga. STI ini adalah Akulturasi antara:
+                </p>
+            </div>
+        </div> <!-- end about-desc -->
+
+        <div class="row bit-narrow">
+                
+            <div class="about-process process block-1-2 block-tab-full">
+
+                <div class="col-block item-process" data-aos="fade-up">
+                    <div class="item-process__text">
+                        <h4 class="item-title">Seni</h4>
+                        <p>
+                            Seni adalah segala sesuatu yang diciptakan oleh manusia yang mengandung unsur keindahan dan mampu membangkitkan perasaan dirinya sendiri maupun orang lain.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-block item-process" data-aos="fade-up">
+                    <div class="item-process__text">
+                        <h4 class="item-title">Hobi</h4>
+                        <p>
+                            Hobi adalah kegiatan rekreasi yang dilakukan pada waktu luang untuk menenangkan pikiran seseorang.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-block item-process" data-aos="fade-up">
+                    <div class="item-process__text">
+                        <h4 class="item-title">Teknologi</h4>
+                        <p>
+                            Teknologi adalah keseluruhan sarana untuk menyediakan barang-barang yang diperlukan bagi kelangsungan dan kenyamanan hidup manusia.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-block item-process" data-aos="fade-up">
+                    <div class="item-process__text">
+                        <h4 class="item-title">Informasi</h4>
+                        <p>
+                            Informasi adalah pesan (ucapan atau ekspresi) atau kumpulan pesan yang terdiri dari order sekuens dari simbol, atau makna yang dapat ditafsirkan dari pesan atau kumpulan pesan.
+                        </p>
+                    </div>
+                </div>
+
+            </div> <!-- end process -->
+
+        </div> <!-- end row -->
+
+    </section> <!-- end s-about -->
+
+
+    <!-- pelayanan
+    ================================================== -->
+    <section id='pelayanan' class="s-services target-section darker">
+
+        <div class="row section-header bit-narrow" data-aos="fade-up">
+            <div class="col-full">
+                <h3 class="subhead">Tujuan STI</h3>
+                <h1 class="display-1">
+                STI pertamanya mempunyai tujuan hanya untuk menshare hasil perjalanan kehidupannya. Kemudian seiring waktu, STI juga mempunyai tujuan untuk membantu seseorang dalam mengatasi masalahnya dalam bidang teknologi & informasi.
+                </h1>
+            </div>
+        </div> <!-- end section-header -->
+
+        <div class="row bit-narrow" data-aos="fade-up">
+            <div class="col-full">
+                <p class="lead">
+                Mempunyai Prinsip:
+                </p>
+            </div>
+        </div> <!-- end about-desc -->
+
+        <div class="row bit-narrow services block-1-2 block-tab-full">
+
+            <div class="col-block item-service" data-aos="fade-up">
+                <div class="item-service__icon">
+                    <i class="icon-star"></i>
+                </div>
+                <div class="item-service__text">
+                    <h3 class="item-title">Jangan Pernah Menyerah</h3>
+                    <p>Pantang menyerah adalah sikap tidak mudah putus asa dalam melakukan sesuatu.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-block item-service" data-aos="fade-up">
+                <div class="item-service__icon">
+                    <i class="icon-group"></i>
+                </div>
+                <div class="item-service__text">
+                    <h3 class="item-title">Harus Selalu Bersyukur</h3>
+                    <p>Bersyukur adalah menerima segala sesuatu dengan ikhlas, tabah dan sabar.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-block item-service" data-aos="fade-up">
+                <div class="item-service__icon">
+                    <i class="icon-pie-chart"></i>
+                </div>  
+                <div class="item-service__text">
+                    <h3 class="item-title">Harus Selalu Bersabar</h3>
+                    <p>Sabar adalah suatu sikap menahan emosi dan keinginan, serta bertahan dalam situasi sulit dengan tidak mengeluh..
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-block item-service" data-aos="fade-up">
+                <div class="item-service__icon">
+                    <i class="icon-cube"></i>
+                </div>
+                <div class="item-service__text">
+                    <h3 class="item-title">Coba dulu, Gagal Belakangan</h3>
+                    <p>Jangan takut gagal. Coba dulu, karna urusan kegagalan itu adalah hasil kecil dari sebuah usaha.
+                    </p>
+                </div>
+            </div>
+
+
+
+        </div> <!-- end services -->
+
+    </section> <!-- end s-services -->
+
+
+    <!-- clients
+    ==================================================
+    <section id="clients" class="s-clients target-section darker">
+
+        <div class="grid-overlay">
+            <div></div>
+        </div>
+
+        <div class="row section-header text-center narrow" data-aos="fade-up">
+            <div class="col-full">
+                <h3 class="subhead">Our Clients</h3>
+                <h1 class="display-1">Who we have work with</h1>
+            </div>
+        </div> end section-header
+
+        <div class="row clients-wrap" data-aos="fade-up">
+            <div class="col-twelve">
+                <ul class="clients">
+                    <li><a href="#0">Uber</a></li>
+                    <li><a href="#0">Spotify</a></li>
+                    <li><a href="#0">Grab</a></li>
+                    <li><a href="#0">Dropbox</a></li>
+                    <li><a href="#0">IBM</a></li>
+                    <li><a href="#0">Microsoft</a></li>
+                    <li><a href="#0">Xiaomi</a></li>
+                    <li><a href="#0">Adidas</a></li>
+                    <li><a href="#0">Mozilla</a></li>
+                    <li><a href="#0">Apple</a></li>
+                    <li><a href="#0">Google</a></li>
+                    <li><a href="#0">Asus</a></li>
+                </ul>
+            </div>
+        </div>
+
+    </section> end s-clients -->
+
+
+    <!-- testimonies
+    ================================================== 
+    <section class="s-testimonials">
+
+        <div class="testimonials__icon" data-aos="fade-up"></div>
+
+        <div class="row testimonials narrow">
+
+            <div class="col-full testimonials__slider" data-aos="fade-up">
+
+                <div class="testimonials__slide">
+                    <p>Qui ipsam temporibus quisquam vel. Maiores eos cumque distinctio nam accusantium ipsum. 
+                    Laudantium quia consequatur molestias delectus culpa facere hic dolores aperiam. Accusantium quos qui praesentium corpori.</p>
+                    <div class="testimonials__author">
+                        Tim Cook
+                        <span>CEO, Apple</span>
+                    </div>
+                </div> end testimonials__slide
+
+                <div class="testimonials__slide">
+                    <p>Excepturi nam cupiditate culpa doloremque deleniti repellat. Veniam quos repellat voluptas animi adipisci.
+                    Nisi eaque consequatur. Quasi voluptas eius distinctio. Atque eos maxime. Qui ipsam temporibus quisquam vel.</p>
+                    <div class="testimonials__author">
+                        Sundar Pichai
+                        <span>CEO, Google</span>
+                    </div>
+                </div> end testimonials__slide
+
+                <div class="testimonials__slide">
+                    <p>Repellat dignissimos libero. Qui sed at corrupti expedita voluptas odit. Nihil ea quia nesciunt. Ducimus aut sed ipsam.  
+                    Autem eaque officia cum exercitationem sunt voluptatum accusamus. Quasi voluptas eius distinctio.</p>
+                    <div class="testimonials__author">
+                        Satya Nadella
+                        <span>CEO, Microsoft</span>
+                    </div>
+                </div> end testimonials__slide 
+                
+            </div> end testimonials__slider
+
+        </div>  end testimonials
+
+    </section> end s-testimonials -->
+
+
+    <!-- contact
+    ================================================== -->
+    <section id="kontak" class="s-contact target-section">
+
+            <div class="grid-overlay">
+                <div></div>
+            </div>
+
+        <div class="row section-header narrow" data-aos="fade-up">
+            <div class="col-full">
+                <h3 class="subhead">Kontak STI</h3>
+                <h1 class="display-1">"Dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan pelanggaran.." [QS. Al - Maidah:2]
+</h1>
+            </div>
+        </div> <!-- end section-header -->
+
+        <div class="row contact-main" data-aos="fade-up">
+            <div class="col-full">
+                <p class="contact-email">
+                    <a href="mailto:setiatechindonesia@gmail.com">setiatechindonesia@gmail.com</a>
+                </p>
+                <p class="contact-address">
+                Kp. Rawageni RT04/RW08 <br>
+                Depok, Jawa Barat, ID 16443
+                </p>
+                <p class="contact-numbers">
+                +62 895 0940 0842
+                </p>
+
+                <ul class="contact-social">
+                <li>
+                        <a href="mailto:setiatechindonesia@gmail.com"><i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/stindonesia_/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </section> <!-- end s-contact -->
+
+
+    <!-- footer
+    ================================================== -->
+    <footer>
+        <div class="row">
+            <div class="col-full ss-copyright">
+                <span>© Copyright SetiaTech Indonesia 2020</span> 
+            </div>
+        </div>
+
+        <div class="ss-go-top">
+            <a class="smoothscroll" title="Back to Top" href="#top">Ayo ke atas</a>
+        </div>
+    </footer>
+
+
+    <!-- photoswipe background
+    ================================================== -->
+    <div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+
+        <div class="pswp__bg"></div>
+        <div class="pswp__scroll-wrap">
+
+            <div class="pswp__container">
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+            </div>
+
+            <div class="pswp__ui pswp__ui--hidden">
+                <div class="pswp__top-bar">
+                    <div class="pswp__counter"></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button> <button class="pswp__button pswp__button--share" title=
+                    "Share"></button> <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button> <button class="pswp__button pswp__button--zoom" title=
+                    "Zoom in/out"></button>
+                    <div class="pswp__preloader">
+                        <div class="pswp__preloader__icn">
+                            <div class="pswp__preloader__cut">
+                                <div class="pswp__preloader__donut"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                    <div class="pswp__share-tooltip"></div>
+                </div><button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button> <button class="pswp__button pswp__button--arrow--right" title=
+                "Next (arrow right)"></button>
+                <div class="pswp__caption">
+                    <div class="pswp__caption__center"></div>
+                </div>
+            </div>
+
+        </div>
+
+    </div> <!-- end photoSwipe background -->
+
+
+    <!-- Java Script
+    ================================================== -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
